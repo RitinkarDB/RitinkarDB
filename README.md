@@ -8,7 +8,7 @@ My interests mainly relate to how people make decisions, primarily at an individ
 - 😄 Pronouns: He/Him
 - 💬 Languages spoken: English (native), Bengali (native), Assamese, German
 
-- 
+  
 <!--
 **RitinkarDB/RitinkarDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
