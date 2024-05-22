@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a second year Postgraduate Researcher aka a PhD Scholar at the School of Economics at the University of East Anglia. 
+
+My interests mainly relate to how people make decisions, primarily at an individual level (decision theory), but also with multiple agents (social choice and game theory).I also have further interests in the philosophy of economics. 
+- 🔭 I’m currently working on determinants of ambiguity attitude
+- 📫 How to reach me: r.das-bhaumik@uea.ac.uk (institutional email ID)
+- 😄 Pronouns: He/Him
+- 💬 Languages spoken: English (native), Bengali (native), Assamese, German
+
+- 
 <!--
 **RitinkarDB/RitinkarDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
