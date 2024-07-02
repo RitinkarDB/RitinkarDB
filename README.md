@@ -7,7 +7,7 @@ My interests mainly relate to how people make decisions, primarily at an individ
 - 📫 How to reach me: r.das-bhaumik@uea.ac.uk (institutional email ID)
 - 😄 Pronouns: He/Him
 - 💬 Languages spoken: English (native), Bengali (native), Assamese, German
--  ⚡ Fun fact: My hometown is Calcutta, which is also the hometown of a number of really famous Bengali economists, most notably Amartya Sen but also Abhijit Banerji, Kaushik Basu etc. etc. Not bad for a third world metropolis! 
+-  ⚡ Fun fact: My hometown is Calcutta, which is also the hometown of a number of really famous Bengali economists, most notably Amartya Sen but also Abhijit Banerji, Kaushik Basu etc. etc. 
 
   
 <!--
